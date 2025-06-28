@@ -87,9 +87,13 @@ pip install -r requirements.txt
 Here are a few snapshots of the VocDoc in action:
 
 ![Audio Input](Working_ss/UI.jpg)
-![Image Upload](Working_ss/upload.jpg)
-![Text & Voice Response](Working_ss/Final_ouput.jpg)
-![Voice Response](final.mp3)
+![Image Upload](Working_ss/Upload.jpg)
+![Text & Voice Response](Working_ss/Final_output.jpg)
+
+### 🔊 AI Doctor Voice Sample
+
+[Download MP3](audio/final.mp3)
+
 
 
 ---
