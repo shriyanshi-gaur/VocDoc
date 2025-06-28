@@ -9,7 +9,7 @@
 * 🎤 **Speech-to-Text (STT)** using OpenAI Whisper (via Groq API)
 * 🖼️ **Image Analysis** using Meta LLaMA3 Vision (via Groq API)
 * 🧠 **Doctor-like Response** using custom system prompts
-* 🔊 **Text-to-Speech (TTS)** using gTTS or ElevenLabs
+* 🔊 **Text-to-Speech (TTS)** using gTTS
 * 🌐 **Interactive UI** built with Gradio
 
 ---
@@ -22,7 +22,7 @@
 | UI           | Gradio                                   |
 | STT          | Whisper-large-v3 (via Groq)              |
 | Image + Text | Meta LLaMA3 Vision (via Groq)            |
-| TTS          | gTTS / ElevenLabs                        |
+| TTS          | gTTS                         |
 | Others       | dotenv, Pydub, FFmpeg, PortAudio, Pipenv |
 
 ---
@@ -32,7 +32,7 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/VocDoc.git
+git clone https://github.com/shriyanshi-gaur/VocDoc.git
 cd VocDoc
 ```
 
