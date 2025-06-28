@@ -1,6 +1,6 @@
 # 🩺 VocDoc – Voice & Vision Enabled AI Medical Assistant
 
-**VocDoc** is a multimodal AI-powered assistant that lets users speak their symptoms and upload relevant medical images (e.g., skin issues). The AI "doctor" provides a text-based and spoken diagnosis using advanced generative AI models.
+**VocDoc** is a multimodal AI-powered assistant that lets users speak their symptoms and upload relevant medical images. The AI "doctor" provides a text-based and spoken diagnosis using advanced generative AI models.
 
 ---
 
