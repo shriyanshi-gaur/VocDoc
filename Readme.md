@@ -86,9 +86,9 @@ pip install -r requirements.txt
 
 Here are a few snapshots of the VocDoc in action:
 
-![Audio Input](working_ss/UI.jpg)
-![Image Upload](working_ss/upload.jpg)
-![Text & Voice Response](working_ss/Final_ouput.jpg)
+![Audio Input](Working_ss/UI.jpg)
+![Image Upload](Working_ss/upload.jpg)
+![Text & Voice Response](Working_ss/Final_ouput.jpg)
 ![Voice Response](final.mp3)
 
 
